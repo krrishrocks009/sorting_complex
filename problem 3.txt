@@ -1,0 +1,37 @@
+Problem 3
+8/10 points (graded)
+For each of the following expressions, select the order of growth class that best describes it from the following list: O(1),O(log?(n)),O(n),O(nlog?(n)),O(nc) or O(cn). Assume c is some constant.
+
+Clicking Check will grade ALL the sub-problems. You have 2 attempts for this problem.
+
+0.0000001n+1000000
+
+ correct  
+0.0001n2+20000n-90000
+
+ correct  
+20n+900log?(n)+100000
+
+ correct  
+(log?(n))2+5n7
+
+ correct  
+n200-2n30
+
+ correct  
+30n2+nlog?(n)
+
+ correct  
+nlog?(n)-3000n
+
+ correct  
+3
+
+ correct  
+5n+n5+n+5
+
+ incorrect  
+nlog?(n)+n2+n+log?n+1+2n
+
+ incorrect  
+ Submit
